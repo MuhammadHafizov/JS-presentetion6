@@ -93,4 +93,7 @@ console.log(sum); // Выведет 15
 ---
 # Метод toSorted() :
 + _Метод toSorted() сортирует элементы массива в алфавитном порядке. Метод toSorted() возвращает новый массив. Метод toSorted() не перезаписывает исходный массив. Метод toSorted() является копирующей версией метода sort()_
-![](https://th.bing.com/th/id/OIP.9TSTn6SnbF-RqrNWfXd24wHaEK?rs=1&pid=ImgDetMain)
+# GOOD BYE
+
+
+![](https://th.bing.com/th/id/OIP.Pj7MfDRlmDo-Feritq6H-wHaEK?rs=1&pid=ImgDetMain)
