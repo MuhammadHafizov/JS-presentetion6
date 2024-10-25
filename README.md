@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a15bf300-1e0f-4fbf-8954-432a08b56bfb)
+
 # Что такое метод в JavaScript ?
 + **Методы JavaScript это действия, которые можно выполнить с объектами. Метод JavaScript это свойство, содержащее определение функции.**
 ---------
